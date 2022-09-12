@@ -3,9 +3,8 @@ I am a professional electronic engineer with a solid background in basic, humani
 I am a creative person, with rapid learning ability, with assertive communication, dynamic, purposeful, open to new ideas, with leadership skills and management of technology-based projects, ready for autonomous or team work.
 I have strong interpersonal communication skills to give remote support in Spanish, English and French Language.
 At the moment, I am interested in systems within automated software testing and web development.
-- 🌱 I’m currently learning .NET and Angular.
-- 📫 How to reach me, just write me jesus.alberto.getial.barragan@gmail.com
-
+- 🌱 I’m currently Senior FullSatakc .NET - Angular Developer.
+- 📫 How to reach me, just write me on linkedIn > https://www.linkedin.com/in/jesus-barragan-8b868096/
 <!---
 jesusgetial94/jesusgetial94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
