@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jesusgetial94
-I am a professional electronic engineer with a solid background in basic, humanistic, organizational and technological sciences. With capacities and competencies for the development of software / hardware systems applicable to a wide variety of purposes in all areas of knowledge, design and application of robotic control systems, industrial automation, artificial intelligence, machine learning and preventive and corrective maintenance of electronic equipment.
-I am a creative person, with rapid learning ability, with assertive communication, dynamic, purposeful, open to new ideas, with leadership skills and management of technology-based projects, ready for autonomous or team work.
-I have strong interpersonal communication skills to give remote support in Spanish, English and French Language.
-At the moment, I am interested in systems within automated software testing and web development.
-- 🌱 I’m currently Senior FullStack .NET - Angular Developer.
+Senior Software Engineer / Tech Lead with 8+ years of experience building, modernizing, and operating full-stack web applications. I specialize in .NET (APIs, microservices) and Angular (SPA), delivering scalable solutions with strong engineering standards, clean architecture, and a pragmatic focus on business outcomes.
+On the backend, I design and implement REST/SOAP services, data-driven APIs, and microservices using C# / .NET Core, working with SQL and NoSQL databases (SQL Server, PostgreSQL, MySQL, MongoDB, and Oracle). I apply clean design principles (Clean Architecture / layered approaches), focus on maintainability, and support high-quality delivery through solid testing practices (unit/integration/E2E).
+On the frontend, I build Angular SPAs using TypeScript, emphasizing performance, modularity, and a smooth user experience (HTML5, CSS3, Sass, Bootstrap, Tailwind). I’m also comfortable owning the build-to-production lifecycle, including CI/CD with Azure DevOps (YAML), Docker, Kubernetes (AKS), and Terraform (IaC) across Azure (and AWS when needed).
+I contribute strongly to operational excellence: improving reliability through observability (Dynatrace, Grafana), leading complex production incidents, and driving architectural enhancements that reduce risk and operational overhead. I enjoy mentoring engineers, strengthening team practices, and collaborating with stakeholders to translate requirements into high-quality deliveries.
+Languages: Spanish (native), English (professional), French (professional)
 - 📫 How to reach me, just write me on linkedIn > https://www.linkedin.com/in/jesus-barragan-8b868096/
 <!---
 jesusgetial94/jesusgetial94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
